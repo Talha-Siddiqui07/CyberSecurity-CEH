@@ -1,0 +1,3 @@
+Solved TryHackMe RootMe room
+Gave presentations
+multiple privilage escalation techniques
